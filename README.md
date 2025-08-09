@@ -28,7 +28,6 @@ From GIS mapping platforms and cybersecurity tools to high-frequency trading (HF
 - **🗺️ GIS Platform** — Map-heavy, data-rich interfaces for geo-data visualization
 - **🛡 Cybersecurity Tools** — Contributed to unit & e2e testing with Jest, Testing Library, and Playwright
 - **⚡ High-Frequency Trading App** — Performance-focused frontend with extreme optimization requirements
-  
 - **🔑 GophKeeper** *(learning project)* — Secure client-server password & secret manager in Go with TLS authentication
 - **🔗 URL Shortener** *(learning project)* — Go-based service with JWT auth, gRPC & HTTP servers, PostgreSQL storage, and background workers — built to deepen my backend architecture skills
 
