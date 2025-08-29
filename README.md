@@ -1,4 +1,4 @@
-# 🚀 Hi, I’m Andrey — Senior Frontend Engineer (with a Backend Twist)
+# 🚀 Hi, I’m Andrei — Senior Frontend Engineer (with a Backend Twist)
 
 I build scalable, high-performance web applications with a focus on clean code, smooth UX, and solid testing.  
 From GIS mapping platforms and cybersecurity tools to high-frequency trading (HFT) applications and backend services in Go, I thrive on solving complex problems and delivering impactful products.
